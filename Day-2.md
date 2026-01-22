@@ -1,7 +1,6 @@
 
 ## Day 2 – Kubernetes Basics
 
-### What to Learn
 
 **Pods**  
 - Smallest unit you deploy.  
