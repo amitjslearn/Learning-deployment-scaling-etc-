@@ -177,5 +177,4 @@ To demonstrate:
    - CPU > 50% → replicas increase (up to max).  
    - CPU drops → replicas decrease (not below min).  
 
-When you see replicas scaling up/down while API stays reachable via Ingress, Day 4 is successful.
 
